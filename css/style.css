@@ -1,0 +1,32 @@
+
+body{
+    font:20px Arial
+}
+.navbar {
+    background-color: #d4b0b0;
+}
+
+.quem-somos{
+    background-color: rgb(194, 194, 206);
+    color: black;
+    font-style: italic;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #d4b0b0;
+    font-style: italic;
+}
+
+.servicos{
+    background-color:rgb(194, 194, 206);
+    font-style: italic;
+}
+.bg-footer{
+    background-color: rgb(194, 194, 206);
+    font-style: italic;
+}
